@@ -1,0 +1,88 @@
+Preventive maintanace task:
+============================
+The thought to prevent cnc machine from the production worries Preventive maintenance helps save time and money by keeping the machine running at peak performance.
+
+A planned preventative maintenance program can help you catch minor issues before they cause major breakdowns.
+
+Benifits of preventive maintanace task
+=======================================
+1.Help to steadily increase the profitability of your company
+
+2.Prevent and reduce machine and production downtime
+
+3.Improve and keep the productivity of the machine tool
+
+4.Extend the lifespan of both your machines and cutting tools
+
+5.Minimise or eliminate crashes or accidents that can be dangerous for operators
+
+6.Increase efficiency by using less material and reducing scrap materials
+
+7.Reduce and avoid hefty repair costs from unexpected break down of your machines
+
+
+DAILY CARE AND FEEDING OF YOUR CNC MACHINE:
+===========================================
+
+1.Check on levels of coolant
+
+2.Check on the cutting tool at ATC
+
+3.Check on hydraulic systems for any leakage
+
+4.Check on air supply to make sure that it is clean and dry
+
+5.Check for any leakage or strange sounds
+
+6.Lubricate machine’s moving parts
+
+7.Ensure that spindles, chucks and any moving parts are cleaned by brushes or flushed with coolant.
+
+8.Check on pneumatic pumps and chucks.
+
+9.Ensure that chips are cleaned but not blown off to prevent damage.
+
+EVERY THREE MONTHS OR 500 HOURS
+================================
+1.Check and grease the chain on the chip conveyor
+
+2.Check and clean the filters on the coolant tank
+
+3.EVERY SIX MONTHS OR 1000 HOURS
+
+Contact your local distributor to have the following preventive maintenance performed by a certified Okuma Engineer:
+====================================================================================================================
+
+1.Have the coolant tank cleaned of sludge, chips, and oil
+
+2.Have the chuck and jaws taken off the machine and cleaned
+
+3.Have the levelling of your machine checked and adjusted if necessary
+
+4.Have the radiator cleaned while making sure that the radiator fins are straight and not damaged
+
+5.Have all way wipers inspected for any damage – clean and replace any wipers that are damaged
+
+6.Have the hydraulic tank drained, and replace the hydraulic oil with fresh hydraulic oil. Do also ensure that the line filter and suction filter are changed.
+
+7.Have the lubrication unit drained and cleaned out – thereafter you should add fresh way lubricant
+
+8.If your machine is equipped with a cooling unit, have the cooling unit drained and refilled
+
+ONCE A YEAR OR EVERY 2000 HOURS Contact your local distributor and have the following inspected:
+===============================================================================================
+1.Have the spindle checked for radial and end play issues
+
+2.Have the chuck cylinder checked for run out
+
+3.Have the tailstock checked for misalignments and quill function
+
+4.Have the turret parallelism and inclination checked
+
+5.Have the whole machine checked for leakage of oil or air
+
+6.Have the headstock checked for any damage or misalignments, and the spindle taper at milling machines
+
+7.Have your distributor / supplier check the X, Y and Z axis gibs and adjust if necessary. Check in the same way the function of your 4th axis table
+
+8.Have your distributor / supplier run a backlash program to check the backlash in X, Y and Z axis and adjust if necessary
